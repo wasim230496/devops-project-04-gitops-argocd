@@ -6,3 +6,5 @@ move it to global system path -> sudo mv ./kind /usr/local/bin/
 kubectl installed
 kind create cluster --name argocd-cluster
 Created Kubernetes cluster
+Installed ArgoCD
+
